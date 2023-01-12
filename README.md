@@ -1,0 +1,4 @@
+# Titanic Database Exploration Report
+Titanic cruise is well-known in history for its tragic sinking on its first voyage. On 15th April 1912, the British passenger liner RMS Titanic, which was widely considered as ‘unsinkable’, ironically sank after ploughing into an iceberg. Limited number of lifeboats on the ship had resulted in the death of 1,502 out of 2,224 passengers and crews.
+
+The database consists of a single table separated into 12 different columns and contains 891 records in total. The data type for each column was identified and any field that was different to the data format will be addressed later, if any, during the data wrangling process. Several variables had been determined as the predictor and target variables for analysis purpose. All variables were categorised accordingly into categorical and quantitative variables.
